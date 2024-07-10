@@ -3,7 +3,7 @@
  I’m interested in cyber security and catching scammers.
  I’m currently learning with google learning and obtaining my certificates.
  I’m looking to collaborate on any projects involving cyber security.
- you can reach me at :mail box: Lourdesd90delossantos@gmail.com.
+ you can reach me at :mailbox: Lourdesd90delossantos@gmail.com.
  Fun fact: I can paint and draw and was even experimenting with digital art before I became interested in cyber security. 
 
 <!---
