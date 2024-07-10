@@ -1,5 +1,5 @@
 <h1>Cyber Security Student</h1>:warning:
-:wave: Hi, :warning: I’m <strong>Lourdes De Los Santos</strong> 
+:wave:<font color="red">HELLO!</font> :warning: I’m <strong>Lourdes De Los Santos</strong> 
  I am interested in cyber security and catching scammers :ninja:.
  I’m currently learning with google learning and obtaining my certificates.
  I am looking to collaborate on any projects involving cyber security.
